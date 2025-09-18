@@ -1,7 +1,7 @@
 
 ### Hi there 👋<br> 
-I'm Yassine (AKA DagDeg)<br>
-<br>🔭 I’m currently an undergraduate software engineer<br>👯 I’m looking to collaborate on cyber security projects<br>🤝 I’m looking for an opportunity to grow and develop my skillset <br>🌱 learning all about SOC and SOAR<br>⚡ Fun fact: I'm a tennis player<br><br>
+I'm Yassine (AKA DagDeg) a Software Engineer and cybersecurity enthausiast <br>
+<br>🔭 I’m currently DevOps/Backend Engineer @ INSTACODIN <br>👯 I’m looking to collaborate on cyber security projects<br>🤝 I’m looking for an opportunity to grow and develop my skillset <br>🌱 learning all about Red Teaming and Blue Teaming<br>⚡ Fun fact: I'm a tennis player<br><br>
 [![](https://visitcount.itsvg.in/api?id=yassine-chihi&icon=0&color=6)](https://visitcount.itsvg.in) 
 
 ## 🌐 Socials:
